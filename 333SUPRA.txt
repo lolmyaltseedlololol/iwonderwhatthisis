@@ -228,7 +228,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -336,7 +336,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -444,7 +444,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -552,7 +552,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -660,7 +660,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -767,7 +767,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -820,7 +820,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -873,7 +873,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -926,7 +926,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -979,7 +979,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -1032,7 +1032,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -1085,7 +1085,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -1192,7 +1192,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
@@ -1299,7 +1299,7 @@ wait(.1)
         v.Handle.Sound.TimePosition = 0
     end
 end
-wait(0.4)
+wait(0.5)
 local normalid = '7378439439'
 
 
