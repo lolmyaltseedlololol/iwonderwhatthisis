@@ -42,7 +42,75 @@ char=game.Players.LocalPlayer.Character
             wait(.1)
             char.HumanoidRootPart.Anchored=true
             for i,v in pairs(char:GetChildren()) do
+                if v:IsA("Tool") thenlocal currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
                 if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.3)
                     v.Parent=game.Players.LocalPlayer.Backpack
                 end
             end
