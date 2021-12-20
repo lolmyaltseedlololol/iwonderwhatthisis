@@ -1,0 +1,2139 @@
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local currentpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+wait(0)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=CFrame.new(5533,5000000,-17105)
+
+char=game.Players.LocalPlayer.Character
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.Character=char
+
+            wait(.1)
+
+            char.HumanoidRootPart.Anchored=true
+
+            for i,v in pairs(char:GetChildren()) do
+
+                if v:IsA("Tool") then
+
+                    v.Parent=game.Players.LocalPlayer.Backpack
+
+                end
+
+            end
+
+            wait(game.Players.RespawnTime-0.5)
+
+            local t = {}
+
+            for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+                v.Parent=char
+
+                v.Parent=workspace
+
+                                v.Handle.Anchored = true
+
+                t[i]=v
+
+            end
+
+            char.Humanoid:Destroy()
+
+            game.Players.LocalPlayer.Character=nil
+
+            game.Players.LocalPlayer.CharacterAdded:Wait()
+
+            char=game.Players.LocalPlayer.Character
+
+            char:WaitForChild("Humanoid")
+
+            wait(.1)
+
+            for i,v in pairs(t) do
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = currentpos
+
+                char.Humanoid:EquipTool(v)
+
+       v.Handle.Anchored = false
+
+            end
+
+wait(0.2)
+
+game.Players.LocalPlayer.Character.Humanoid:UnequipTools()
+
+wait(0.5)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
+
+local normalid = '7378439439'
+
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+
+ if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Parent = game.Players.LocalPlayer.Character
+
+ end
+
+end
+
+local balls1 = "0&&assetName=[send_nudes_to_333SUPRA]%&%69%64=%30%30%36%37%37%33%30%31%35%32%36%32%&%69%64=%30%30%36%37%31%31%32%30%38%32%38%37%&%69%64=%30%30%36%37%35%34%30%33%39%34%30%39%&%69%64=%30%30%36%37%38%36%37%39%36%39%34%37%&%69%64=%30%30%36%37%37%39%32%39%33%37%34%36"
+
+local balls2 = "%%26%69%64=%30%30%36%37%38%38%31%36%35%39%33%37%%26%69%64=%30%30%36%37%30%31%30%31%36%33%34%38%%26%69%64=%30%30%36%37%31%35%33%39%36%32%32%39%%26%69%64=%30%30%36%37%36%36%33%31%33%39%30%36%%26%69%64=%30%30%36%37%36%39%38%37%31%31%37%33%%26%69%64=%30%30%36%37%37%31%33%34%32%38%33%35%%26%69%64=%30%30%36%37%31%34%33%34%30%32%37%39%%26%69%64=%30%30%36%37%33%36%39%32%39%37%35%30%%26%69%35%38%34%32%32%39%33%37%%26%69%64=%30%30%36%37%33%35%32%37%38%31%32%39"
+
+ local char_to_hex = function(c)
+
+      return string.format("%%%02X", string.byte(c))
+
+    end
+
+    
+
+    local function urlencode(url)
+
+      if url == nil then
+
+        return
+
+      end 
+
+      url = url:gsub("\n", "\r\n")
+
+      url = url:gsub(".", char_to_hex)
+
+      url = url:gsub(" ", "+")
+
+      return url
+
+    end
+
+    local encid = urlencode(normalid)
+
+    
+
+local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
+
+     for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+        if string.find(string.lower(v.Name),'boomb') then
+
+            v.Remote:FireServer("PlaySong", total);
+
+        end
+
+     end
+
+     wait(.4)
+
+       for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(.1)
+
+  for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+
+    if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
+
+        v.Handle.Sound.TimePosition = 0
+
+    end
+
+end
+
+wait(1.4)
