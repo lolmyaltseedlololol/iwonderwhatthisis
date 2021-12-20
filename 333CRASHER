@@ -2137,3 +2137,4 @@ wait(.1)
 end
 
 wait(1.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
