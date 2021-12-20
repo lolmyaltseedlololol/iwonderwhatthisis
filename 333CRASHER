@@ -2007,7 +2007,6 @@ local total = balls1 .. '&%69%64=%30%30' .. encid .. balls2
      wait(.4)
 
        for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
-
     if v.ClassName == "Tool" and v:FindFirstChild("Handle") and v:FindFirstChildOfClass("RemoteEvent") and v.Handle:FindFirstChildOfClass("Sound") then
 
         v.Handle.Sound.TimePosition = 0
@@ -2138,3 +2137,24 @@ end
 
 wait(1.4)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+wait(0)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("runna 4490" ,"All")
+
